@@ -1,4 +1,11 @@
 # MySql-Clustering-In-Docker
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Mysql,linux,docker " />
+  </a>
+</p>
+
+
 
 In this project sample, i need to dockerized MySql cluster 1 master read write and volumes 2TB and 5 cluster nodes x 2TB volumes per nodes and Readonly and activated synch between master and worker nodes.
 
