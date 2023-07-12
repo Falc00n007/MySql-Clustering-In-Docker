@@ -1,7 +1,7 @@
 # MySql-Clustering-In-Docker
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Mysql,linux,docker " />
+    <img src="https://skillicons.dev/icons?i=mysql,linux,docker " />
   </a>
 </p>
 
